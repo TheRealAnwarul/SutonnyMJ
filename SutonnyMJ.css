@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'SutonnyMJ';
+  src: url('https://cdn.jsdelivr.net/gh/TheRealAnwarul/SutonnyMJ@main/SutonnyMJ.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/TheRealAnwarul/SutonnyMJ@main/SutonnyMJ.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.custom-font {
+  font-family: 'SutonnyMJ', sans-serif;
+}
